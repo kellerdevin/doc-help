@@ -1,0 +1,58 @@
+.margin{
+    padding-left: 20px;
+}
+.nomargin{
+	padding-left: 0px;
+}
+
+i{
+	color: gray;
+	position: absolute;
+    right: 35px;
+    width: 5%;
+    padding: 10px;
+}
+
+h1{
+	font-size: 1rem;
+}
+.box{
+	font-size: 22px;
+	border-bottom: 2px solid #e6e6e6;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+.boxtop{
+	font-size: 22px;
+	border-bottom: 2px solid #e6e6e6;
+	padding-top: 40px;
+	padding-bottom: 25px;
+}
+
+.SignOut{
+	text-align: center;
+	font-weight: normal;
+	font-size: 25px;
+	border-bottom: 2px solid #d9d9d9;
+	border-top: 2px solid #d9d9d9;
+	margin-left: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: white;
+}
+.shadow{
+	border-bottom: 2px solid #cccccc;
+	padding-bottom: 20px;
+}
+
+.space{
+	height: 40px;
+	background-color: #f2f2f2;
+}
+
+.Navbar{
+	position:fixed;
+    bottom:0px;
+    width: 100%;
+	
+}
